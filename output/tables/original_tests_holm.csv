@@ -1,0 +1,15 @@
+"Table","Best_p","Holm_adjusted_p"
+"Finances vs. last year x CC1",4.19e-08,4.61e-07
+"Finances next year x CC1",7.36e-22,1.03e-20
+"Income (8 levels) x CC1",2e-05,0.00016
+"Income x finances vs. last year",5e-06,5e-05
+"Income x finances next year",1.05e-21,1.37e-20
+"Party x CC1",2.9e-08,3.48e-07
+"Age (6 groups) x CC1",0.000145,0.00087
+"Education x CC1",0.179,0.25
+"Gender x CC1",0.0167,0.054
+"Funding option x CC4",8.8e-05,0.000616
+"Finances vs. last year (5 levels) x CC4",5e-06,5e-05
+"Children x CC1",0.000413,0.00206
+"Health club x CC1",0.125,0.25
+"Work status x CC1",0.0135,0.054

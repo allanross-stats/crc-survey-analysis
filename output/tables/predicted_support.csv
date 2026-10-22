@@ -1,0 +1,10 @@
+"Variable","Level","Predicted_support"
+"finfut_3","Worse off",0.7101
+"finfut_3","About the same",0.862
+"finfut_3","Better off",0.9152
+"finfut_3","Unsure",0.9104
+"age_simple","Under 35",0.9159
+"age_simple","35-54",0.9126
+"age_simple","55+",0.7972
+"children","No children",0.8435
+"children","Children in household",0.8944

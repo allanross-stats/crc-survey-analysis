@@ -1,0 +1,15 @@
+"Variable","Category","Unweighted","Weighted"
+"agerange","18-24",0.01,0.036
+"agerange","25-34",0.052,0.173
+"agerange","35-44",0.115,0.18
+"agerange","45-54",0.114,0.16
+"agerange","55-64",0.18,0.114
+"agerange","65+",0.53,0.338
+"oparty","Republican",0.331,0.349
+"oparty","Democrat",0.262,0.217
+"oparty","Other",0.407,0.434
+"gender_2","Male",0.455,0.468
+"gender_2","Female",0.545,0.532
+"educ_3","High school or less",0.111,0.119
+"educ_3","Some college",0.29,0.291
+"educ_3","College degree",0.599,0.589

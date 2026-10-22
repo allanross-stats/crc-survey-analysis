@@ -1,0 +1,24 @@
+"Group","Level","Support","lo","hi"
+"Expected finances next year","Worse off",0.636,0.55,0.722
+"Expected finances next year","About the same",0.862,0.827,0.897
+"Expected finances next year","Better off",0.932,0.891,0.973
+"Expected finances next year","Unsure",0.844,0.773,0.916
+"Finances vs. a year ago","Worse off",0.8,0.748,0.853
+"Finances vs. a year ago","About the same",0.857,0.823,0.891
+"Finances vs. a year ago","Better off",0.888,0.83,0.946
+"Finances vs. a year ago","Unsure",0.802,0.688,0.915
+"Age","18-24",0.905,0.727,1
+"Age","25-34",0.946,0.886,1
+"Age","35-44",0.929,0.882,0.976
+"Age","45-54",0.925,0.875,0.975
+"Age","55-64",0.866,0.809,0.924
+"Age","65+",0.712,0.663,0.761
+"Party","Republican",0.784,0.737,0.831
+"Party","Democrat",0.9,0.852,0.948
+"Party","Other",0.871,0.834,0.908
+"Income","Under $50k",0.87,0.827,0.913
+"Income","$50k-$100k",0.869,0.824,0.914
+"Income","Over $100k",0.881,0.829,0.932
+"Income","Not reported",0.752,0.689,0.816
+"Children at home","No children",0.818,0.785,0.851
+"Children at home","Children in household",0.933,0.898,0.968

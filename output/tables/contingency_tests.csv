@@ -1,0 +1,11 @@
+"Predictor","Levels","Pearson_chisq","Pearson_p","Min_expected_count","Fisher_p_if_sparse","RaoScott_F","RaoScott_p","Trend_direction","Trend_p_weighted","Weighted_support_range","RaoScott_p_Holm"
+"Expected finances next year",4,94.86,1.981e-20,18.75,NA,15.26,1.308e-09,"Rises",3.139e-08,"64% to 93%",1.308e-08
+"Work status",4,14.31,0.002513,3.678,0.00228,15.48,1.407e-09,NA,NA,"73% to 96%",1.308e-08
+"Age group",6,28.54,2.851e-05,1.591,2e-05,7.749,2.72e-06,"Falls",1.072e-05,"71% to 95%",2.176e-05
+"Children in household",2,12.19,0.0004816,34.37,NA,14.67,0.0001349,NA,NA,"82% to 93%",0.0009443
+"Political party",3,36.72,1.065e-08,46.59,NA,6.436,0.001649,NA,NA,"78% to 90%",0.009896
+"Income",4,26.53,7.38e-06,38.61,NA,4.811,0.002486,"Rises",0.7638,"75% to 88%",0.01243
+"Gender",2,6.972,0.008277,72.05,NA,5.915,0.01516,NA,NA,"82% to 88%",0.06063
+"Finances vs. a year ago",4,31.17,7.814e-07,9.234,NA,1.974,0.1184,"Rises",0.03194,"80% to 89%",0.3553
+"Education",3,3.404,0.1823,18.45,NA,1.715,0.1803,"Rises",0.8872,"82% to 89%",0.3607
+"Health club member",2,1.052e-29,1,79.93,NA,0.2204,0.6388,NA,NA,"84% to 86%",0.6388

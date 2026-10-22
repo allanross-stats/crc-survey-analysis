@@ -1,0 +1,19 @@
+"Question","Response","Unweighted","Weighted","CI_low","CI_high"
+"CC1: Build a CRC?","Oppose",0.137,0.149,0.124,0.173
+"CC1: Build a CRC?","Support",0.841,0.827,0.8,0.853
+"CC1: Build a CRC?","Don't know / Prefer not",0.022,0.025,0.014,0.035
+"CC5: Preferred option","One large CRC",0.584,0.539,0.501,0.577
+"CC5: Preferred option","Multiple smaller CRCs",0.252,0.289,0.253,0.324
+"CC5: Preferred option","Do not support a CRC",0.111,0.117,0.096,0.138
+"CC5: Preferred option","Don't know",0.046,0.051,0.035,0.066
+"CC5: Preferred option","Prefer not to answer",0.007,0.005,0.001,0.009
+"CC6: Preferred location","Lincoln Park-Moyer Pool footprint",0.265,0.322,0.285,0.359
+"CC6: Preferred location","Matchett Park",0.564,0.487,0.448,0.525
+"CC6: Preferred location","Don't know",0.151,0.173,0.145,0.201
+"CC6: Preferred location","Prefer not to answer",0.02,0.018,0.01,0.027
+"CC7: Preferred funding","Sales tax",0.199,0.173,0.145,0.201
+"CC7: Preferred funding","Property tax",0.088,0.068,0.048,0.088
+"CC7: Preferred funding","Nicotine tax",0.479,0.488,0.45,0.527
+"CC7: Preferred funding","Prefer not to build",0.17,0.199,0.17,0.228
+"CC7: Preferred funding","Don't know",0.052,0.06,0.042,0.078
+"CC7: Preferred funding","Prefer not to answer",0.012,0.012,0.004,0.02
